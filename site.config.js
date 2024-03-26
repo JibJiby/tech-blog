@@ -4,7 +4,7 @@ const CONFIG = {
     name: "jibjiby",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "frontend developer",
-    bio: "조금씩 성장해나가는 개발자",
+    bio: "조금씩 꾸준히 성장해나가는 개발자",
     email: "my01sun@gmail.com",
     linkedin: "",
     github: "jibjiby",
@@ -23,7 +23,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://.jiby.blog",
+  link: "https://jiby.blog",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
